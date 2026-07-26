@@ -44,6 +44,26 @@
         "lifecycle",
         "mixin"
       ]
+    },
+    {
+      "id": "dev.hmclnex.playtimetracker",
+      "name": "Play Time Tracker",
+      "author": "ACX",
+      "description": "按实例统计游戏时长、启动次数与崩溃次数：今日/本周/累计卡片、7 天趋势图、会话历史与 CSV 导出。",
+      "manifestUrl": "https://raw.githubusercontent.com/PCL-Nex-Developer/HMCL-Nex-PlayTime-Tracker/main/manifest.json",
+      "repository": "https://github.com/PCL-Nex-Developer/HMCL-Nex-PlayTime-Tracker",
+      "homepage": "https://github.com/PCL-Nex-Developer/HMCL-Nex-PlayTime-Tracker",
+      "category": "utility",
+      "tags": [
+        "statistics",
+        "playtime",
+        "hmcl-nex",
+        "javafx"
+      ],
+      "capabilities": [
+        "lifecycle",
+        "javafx"
+      ]
     }
   ]
 }
