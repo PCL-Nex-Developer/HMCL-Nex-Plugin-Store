@@ -24,6 +24,26 @@
         "javafx",
         "mixin"
       ]
+    },
+    {
+      "id": "dev.hmclnex.offlineunlocker",
+      "name": "Offline Account Unlocker",
+      "author": "ACX",
+      "description": "解除必须先登录正版账号才能使用离线登录与第三方登录的限制。",
+      "manifestUrl": "https://raw.githubusercontent.com/PCL-Nex-Developer/HMCL-Nex-Offline-Unlocker/main/manifest.json",
+      "repository": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Offline-Unlocker",
+      "homepage": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Offline-Unlocker",
+      "category": "utility",
+      "tags": [
+        "account",
+        "offline",
+        "authlib-injector",
+        "hmcl-nex"
+      ],
+      "capabilities": [
+        "lifecycle",
+        "mixin"
+      ]
     }
   ]
 }
