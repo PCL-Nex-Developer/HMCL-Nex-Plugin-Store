@@ -64,6 +64,27 @@
         "lifecycle",
         "javafx"
       ]
+    },
+    {
+      "id": "dev.hmclnex.crashdoctor",
+      "name": "Crash Doctor",
+      "author": "ACX",
+      "description": "崩溃医生：扫描实例崩溃报告与日志，本地规则引擎自动诊断常见崩溃原因并给出修复建议；可选接入 OpenAI 兼容 AI 模型做深度分析（日志脱敏后发送，AI 仅提供建议）。",
+      "manifestUrl": "https://raw.githubusercontent.com/PCL-Nex-Developer/HMCL-Nex-Crash-Doctor/main/manifest.json",
+      "repository": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Crash-Doctor",
+      "homepage": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Crash-Doctor",
+      "category": "utility",
+      "tags": [
+        "crash",
+        "diagnosis",
+        "logs",
+        "ai",
+        "hmcl-nex"
+      ],
+      "capabilities": [
+        "lifecycle",
+        "javafx"
+      ]
     }
   ]
 }
