@@ -9,7 +9,7 @@
                         "name":  "PCL Theme for HMCL Nex",
                         "author":  "Nex Launcher Developer",
                         "description":  "以 JavaFX 与 SpongePowered Mixin 实现 PCL Theme 视觉与交互，不包含或移植原启动器源代码。",
-                        "manifestUrl":  "https://raw.githubusercontent.com/PCL-Nex-Developer/PCL-Theme-For-Nex/main/manifest.json",
+                        "manifestUrl":  "https://raw.githubusercontent.com/PCL-Nex-Developer/PCL-Theme-For-Nex/1d0494f799a752bacfe97871d58233251d6bdf56/manifest.json",
                         "repository":  "https://github.com/PCL-Nex-Developer/PCL-Theme-For-Nex",
                         "homepage":  "https://github.com/PCL-Nex-Developer/PCL-Theme-For-Nex",
                         "category":  "theme",
