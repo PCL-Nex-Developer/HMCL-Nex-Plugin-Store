@@ -169,6 +169,27 @@
         "lifecycle",
         "javafx"
       ]
+    },
+    {
+      "id": "dev.local.modupdater",
+      "name": "Mod Updater",
+      "author": "ACX",
+      "description": "Mod 更新检查器：用 SHA-1 指纹通过 Modrinth API 批量识别实例中的 Mod，按当前加载器与游戏版本检查可用更新，一键下载更新（旧文件 .disabled 保底回滚），并可复制更新报告。",
+      "manifestUrl": "https://raw.githubusercontent.com/PCL-Nex-Developer/HMCL-Nex-Mod-Updater/main/manifest.json",
+      "repository": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Mod-Updater",
+      "homepage": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Mod-Updater",
+      "category": "utility",
+      "tags": [
+        "mods",
+        "update",
+        "modrinth",
+        "hmcl-nex",
+        "javafx"
+      ],
+      "capabilities": [
+        "lifecycle",
+        "javafx"
+      ]
     }
   ]
 }
