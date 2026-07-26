@@ -148,6 +148,27 @@
         "lifecycle",
         "javafx"
       ]
+    },
+    {
+      "id": "dev.local.screenshotgallery",
+      "name": "Screenshot Gallery",
+      "author": "ACX",
+      "description": "截图画廊：跨实例浏览与管理游戏截图。全部实例聚合、搜索、排序、缩略图缩放、多选批量删除/导出、大图预览（翻页/滚轮缩放/幻灯片）、设为启动器背景、重命名、另存为、复制到剪贴板。",
+      "manifestUrl": "https://raw.githubusercontent.com/PCL-Nex-Developer/HMCL-Nex-Screenshot-Gallery/main/manifest.json",
+      "repository": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Screenshot-Gallery",
+      "homepage": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Screenshot-Gallery",
+      "category": "utility",
+      "tags": [
+        "screenshot",
+        "gallery",
+        "background",
+        "hmcl-nex",
+        "javafx"
+      ],
+      "capabilities": [
+        "lifecycle",
+        "javafx"
+      ]
     }
   ]
 }
