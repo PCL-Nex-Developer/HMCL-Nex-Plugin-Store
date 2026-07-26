@@ -106,6 +106,27 @@
         "lifecycle",
         "javafx"
       ]
+    },
+    {
+      "id": "dev.local.worldinspector",
+      "name": "World Inspector",
+      "author": "ACX",
+      "description": "存档检查器：解析每个实例存档的 level.dat（NBT），展示世界名、种子、版本、模式、难度、游戏时间、玩家状态与占用空间；支持复制种子和打开存档目录。",
+      "manifestUrl": "https://raw.githubusercontent.com/PCL-Nex-Developer/HMCL-Nex-World-Inspector/main/manifest.json",
+      "repository": "https://github.com/PCL-Nex-Developer/HMCL-Nex-World-Inspector",
+      "homepage": "https://github.com/PCL-Nex-Developer/HMCL-Nex-World-Inspector",
+      "category": "utility",
+      "tags": [
+        "world",
+        "saves",
+        "nbt",
+        "hmcl-nex",
+        "javafx"
+      ],
+      "capabilities": [
+        "lifecycle",
+        "javafx"
+      ]
     }
   ]
 }
