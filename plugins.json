@@ -127,6 +127,27 @@
         "lifecycle",
         "javafx"
       ]
+    },
+    {
+      "id": "dev.hmclnex.optionssync",
+      "name": "Options Sync",
+      "author": "ACX",
+      "description": "实例设置同步：把任一实例的 options.txt 存为配置档案，按分类（按键/画面/声音/聊天）选择性应用到其它实例，附双实例差异对比与应用前自动备份一键回滚。",
+      "manifestUrl": "https://raw.githubusercontent.com/PCL-Nex-Developer/HMCL-Nex-Options-Sync/main/manifest.json",
+      "repository": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Options-Sync",
+      "homepage": "https://github.com/PCL-Nex-Developer/HMCL-Nex-Options-Sync",
+      "category": "utility",
+      "tags": [
+        "options",
+        "settings",
+        "sync",
+        "keybinds",
+        "hmcl-nex"
+      ],
+      "capabilities": [
+        "lifecycle",
+        "javafx"
+      ]
     }
   ]
 }
