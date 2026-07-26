@@ -210,6 +210,28 @@
                                              "lifecycle",
                                              "javafx"
                                          ]
+                    },
+                    {
+                        "id":  "dev.local.storageinsight",
+                        "name":  "Storage Insight",
+                        "author":  "ACX",
+                        "description":  "存储透视：按类别与实例统计游戏目录磁盘占用，大文件 Top 20，保守规则垃圾清理（日志/崩溃报告/临时文件），SHA-256 重复文件检测与 Markdown 报告导出。",
+                        "manifestUrl":  "https://raw.githubusercontent.com/PCL-Nex-Developer/HMCL-Nex-Storage-Insight/main/manifest.json",
+                        "repository":  "https://github.com/PCL-Nex-Developer/HMCL-Nex-Storage-Insight",
+                        "homepage":  "https://github.com/PCL-Nex-Developer/HMCL-Nex-Storage-Insight",
+                        "category":  "utility",
+                        "tags":  [
+                                     "storage",
+                                     "disk-usage",
+                                     "cleanup",
+                                     "duplicates",
+                                     "hmcl-nex",
+                                     "javafx"
+                                 ],
+                        "capabilities":  [
+                                             "lifecycle",
+                                             "javafx"
+                                         ]
                     }
                 ]
 }
